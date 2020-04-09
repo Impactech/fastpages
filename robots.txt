@@ -1,0 +1,1 @@
+Sitemap: https://impactech.github.io/fastpages/sitemap.xml
