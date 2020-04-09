@@ -8,7 +8,7 @@
 
 Deep learning experiments on the covid-19 data. 
 
-Please visit https://prateekkarkare.github.io/fastpages/ 
+Please visit https://impactech.github.io/fastpages/ 
 
 *Contributions Welcome!*
 
