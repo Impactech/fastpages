@@ -4,10 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-I am a machine learning enthusiast and with a special interest in image recognition.
+##To empower you for post covid-19 world
 
-Someone who enjoys learning for the sake of it, I get high on good music and great jam sessions, playing and collecting different musical instruments, electronics, react.js, Node.js, Unity VR development and of course machine learning.
+###Impactech DIGITAL TRANSFORMATION
 
-I regularly write on medium about basic concepts in Machine Leanring visit: [https://medium.com/@prateekkarkare]
+COVID-19 crisis has made it imperative for civil-society and non-profit organizations to undergo Digital Transformation to continue creating impact at scale and to be able to combat future contingencies.
 
-If you have suggestions to good music, great learning material on any of the above feel free to drop me a DM on twitter, linkedin or any of the blog posts here!
+Our highly experienced technology team comprising of founders of successful for-profit & non-profit tech startups, Ashoka & Acumen Fellows, Graduates from Northwestern University, IIT Bombay and Delhi will act as extended technology team of your organization to build scalable, high impact and viable technologies in IoT, Web, Mobile, AI/ML and Data Analytics. 
